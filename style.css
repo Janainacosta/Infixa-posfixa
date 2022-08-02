@@ -1,0 +1,43 @@
+.container {
+  max-width: 600px;
+  margin: 180px auto;
+  background:palevioletred;
+  padding: 10px;
+  border-radius: 70px;
+}
+h1{
+    color:black;
+    text-align: center;
+}
+button {
+  background:tan;
+  display: block;
+  font-size: 18px;
+  width: 30%;
+  height: 50px;
+  padding: 0 20px;
+  margin: 0 auto;
+  margin-top: 30px;
+  color: black;
+  font-weight: 700;
+  cursor: pointer;
+  border-color: black;
+  border-radius: 50px;
+ 
+}
+
+input {
+  display: block;
+  font-size: 18px;
+  width: 70%;
+  height: 50px;
+  padding: 0 20px;
+  margin: 0 auto;
+  border-color: black;
+}
+
+.posfixado {
+  font-size: 24px;
+  color:honeydew;
+}
+
